@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    height: 100px;
+    text-align: left;
+    background-color: skyblue;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.nav{
+    
+    text-align: center;
+    margin-left: 12px;
+    margin-right: 12px;
+    margin-bottom: 4px;
+    background-color: rgb(123, 123, 252);
+    color: azure;
+    margin-top: 20px;
+}
+
+.img{
+    height: 400px;
+    background-color: skyblue;
+    text-align: center;
+    color: #000;
+    width: 100%;
+}
+
+.about_section{
+    display: flex;
+
+}
+
+.left{
+    height: 400px;
+    width: 70%;
+    background-color: rgb(18, 134, 180);
+    color: #000;
+    text-align: center;
+    margin-top: 8px;
+    margin-right: 6px;
+    margin-bottom: 8px;
+
+}
+
+.right{
+    height: 400px;
+    width: 30%;
+    background-color: rgb(3, 80, 110);
+    color: #000;
+    text-align: center;
+    margin-top: 8px;
+    margin-left: 6px;
+    margin-bottom: 8px;
+
+}
+
+.ad_section{
+display: flex;
+}
+
+.ad_left{
+    height: 300px;
+    width: 40%;
+    background-color: rgb(180, 69, 69);
+    color: #000;
+    text-align: center;
+    margin-left: 8px;
+    margin-right: 4px;
+
+}
+
+.ad_right{height: 300px;
+    width: 20%;
+    background-color: rgb(116, 69, 35);
+    color: #000;
+    text-align: center;
+    margin-left: 4px;
+    margin-right: 4px;
+
+}
+
+.middile{height: 300px;
+    width: 40%;
+    background-color: rgb(73, 57, 15);
+    color: #000;
+    margin-left: 4px;
+    margin-right: 8px;
+    text-align: center;
+
+
+}
+footer{
+    height: 100px;
+    text-align: center;
+    background-color: #000;
+    color: antiquewhite;
+}
+
